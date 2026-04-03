@@ -8,15 +8,15 @@ This project analyzes internship applicant data for Veterans India to uncover tr
 ---
 
 ## 📌 Table of Contents  
-- Overview  
-- Business Problem  
-- Dataset  
-- Tools & Technologies  
-- Project Structure  
-- Data Cleaning & Preparation  
-- Exploratory Data Analysis (EDA)  
-- Research Questions & Key Findings  
-- Final Recommendations  
+- [Overview](#overview)  
+- [Business Problem](#business-problem)  
+- [Dataset](#dataset)  
+- [Tools & Technologies](#tools--technologies)  
+- [Project Structure](#project-structure)  
+- [Data Cleaning & Preparation](#data-cleaning--preparation)  
+- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)  
+- [Research Questions & Key Findings](#research-questions--key-findings)  
+- [Final Recommendations](#final-recommendations)  
 
 ---
 
